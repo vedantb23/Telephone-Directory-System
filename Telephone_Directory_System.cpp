@@ -1,5 +1,14 @@
 // TELEPHONE DIRECTORY SYSTEM
+// DESCRIPTION
+/*
+The Telephone Directory System is a C++ project that manages contact information such as names, addresses, and phone numbers. Users can:
 
+Add Records: Input contact details to store in a file.
+View Records: Display all saved contacts.
+Search Records: Look up a contact by name.
+Modify Records: Update the details of an existing contact.
+Delete Records: Remove a contact from the file.
+Exit: Close the program.
 #include <iostream.h>
 #include <fstream.h>
 #include <iomanip.h>
@@ -10,6 +19,8 @@
 #include <iomanip.h>
 #include <graphics.h>
 #include <dos.h>
+
+*/
 
 class stud
 {
